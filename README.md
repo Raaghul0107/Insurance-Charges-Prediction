@@ -30,9 +30,13 @@ Random Forest Regression
 ## Key steps involved:
 
 Data Preprocessing: Handling missing values, encoding categorical variables, feature scaling.
+
 Model Training: Using different regression models to train on the dataset.
+
 Model Evaluation: Evaluating models using metrics like Mean Squared Error (MSE) and R-squared (R²).
-Hyperparameter Tuning: Improving model performance through hyperparameter optimization.
+
+Hyperparameter Tuning: Improving RF model performance through hyperparameter optimization.
+
 Comparison: Comparing the predicted charges of 2 models with the actual charges incurred.
 
 ## Results
