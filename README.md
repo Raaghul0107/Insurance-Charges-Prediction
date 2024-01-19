@@ -1,7 +1,5 @@
 # Insurance-Charges-Prediction
 
-This project employs two models(Linear Regression and Random Forest) to estimate health insurance charges incurred based on six individual attributes of the users.
-
 ## Project Overview
 
 This project involves the development of a machine learning model to predict insurance charges incurred by the users based on various features. The primary goal is to explore different regression techniques and evaluate their performance in predicting insurance charges.
