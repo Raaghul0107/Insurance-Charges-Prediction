@@ -35,7 +35,7 @@ Model Evaluation: Evaluating models using metrics like Mean Squared Error (MSE) 
 
 Hyperparameter Tuning: Improving RF model performance through hyperparameter optimization.
 
-Comparison: Comparing the predicted charges of 2 models with the actual charges incurred.
+Comparison: Concluded the project with a comparative analysis of the predicted insurance charges from both models against the actual charges incurred, providing a critical assessment of model accuracy and reliability in real-world scenarios.
 
 ## Results
 The models were evaluated based on their MSE and R² scores. After hyperparameter tuning, the Random Forest model showed a significant improvement in generalizing to unseen data. Random forest model is comparitively better than Linear Regression model in predicitng the charges.
