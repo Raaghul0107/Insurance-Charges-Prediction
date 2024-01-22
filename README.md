@@ -27,7 +27,7 @@ Random Forest Regression
 
 ## Key steps involved:
 
-Data Preprocessing: Handling missing values, encoding categorical variables, feature scaling.
+Data Preprocessing: Handling missing values, encoding categorical variables.
 
 Model Training: Using different regression models to train on the dataset.
 
