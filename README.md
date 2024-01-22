@@ -26,6 +26,7 @@ Linear Regression
 Random Forest Regression
 
 ## Key steps involved:
+Exploring the data: Explored each variables distribution with distplot and countplot.
 
 Data Preprocessing: Handling missing values, encoding categorical variables.
 
